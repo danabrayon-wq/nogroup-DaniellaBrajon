@@ -4,3 +4,4 @@
 4. Unique password is chosen for new registration
 5. Redirection to Sign in page
 Point 13 test change
+Point 13 test change
